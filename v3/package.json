@@ -1,0 +1,13 @@
+
+{
+  "name": "marketplace-v3",
+  "version": "3.0.0",
+  "description": "Marketplace v3 - View All Products",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
