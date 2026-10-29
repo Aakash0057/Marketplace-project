@@ -1,0 +1,13 @@
+
+{
+  "name": "marketplace-v2",
+  "version": "2.0.0",
+  "description": "Marketplace v2 - Add Product",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
